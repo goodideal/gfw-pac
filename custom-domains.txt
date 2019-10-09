@@ -41,3 +41,6 @@ last.fm
 scdn.co
 spotify.com
 spotilocal.com
+
+gv1.com
+googleusercontent.com
