@@ -41,6 +41,15 @@ last.fm
 scdn.co
 spotify.com
 spotilocal.com
-
 gv1.com
 googleusercontent.com
+accounts.google.com
+clients3.google.com
+talk.google.com
+drive.google.com
+www.googleapis.com
+ssl.gstatic.com
+docs.google.com
+video.google.com
+ytimg.com
+s.ytimg.com
